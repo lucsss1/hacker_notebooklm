@@ -1,0 +1,18 @@
+Link para Acesso ao NotebookLM - CyberSegurança
+
+LINK: https://notebooklm.google.com/notebook/963f0cb3-8200-443b-a225-b69bfa53b4b5
+
+Este notebook é um ambiente de análise avançada focado em Cyber Segurança e Operações Red Team. Ele foi projetado para transcender a teoria básica e mergulhar na execução técnica e na psicologia aplicada à quebra de sistemas.
+
+Capacidades Principais:
+Análise de Vetores de Ataque: O notebook consegue dissecar metodologias complexas, identificando desde o Foothold inicial até técnicas de Exfiltration de dados, baseando-se em documentação técnica e relatórios de incidentes reais.
+
+Engenharia Reversa de Mindset: Mais do que listar falhas, ele simula o raciocínio de um Threat Actor, explicando como o pensamento lateral é usado para contornar defesas modernas (EDR/AV) e explorar vulnerabilidades lógicas.
+
+Mapeamento de TTPs (MITRE ATT&CK): Ele é capaz de correlacionar informações das suas fontes para identificar as táticas, técnicas e procedimentos usados em campanhas de APTs e ataques de larga escala.
+
+Consultoria de Hardening e Defesa: Para cada vulnerabilidade discutida, o notebook fornece estratégias de mitigação e Hardening de nível empresarial, equilibrando a visão ofensiva com a necessidade de proteção do Blue Team.
+
+Interação em Dialeto Técnico: O sistema responde utilizando o jargão real do mercado (ex: PrivEsc, Pivoting, OPSEC, Payload), garantindo uma imersão completa para profissionais e estudantes avançados da área.
+
+Nota de Operação: Este notebook opera sob a premissa de "conhecer o inimigo para fortalecer a defesa", sendo uma ferramenta poderosa para simulações de ataque, estudo de vulnerabilidades Zero-day e aprimoramento de POCs.
